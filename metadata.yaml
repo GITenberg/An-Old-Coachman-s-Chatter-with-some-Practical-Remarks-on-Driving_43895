@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '42459'
     url: http://www.gutenberg.org/2009/agents/42459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43895#An-Old-Coachman-s-Chatter-with-some-Practical-Remarks-on-Driving
 gutenberg_issued: '2013-10-05'
 gutenberg_type: Text
 identifiers:
